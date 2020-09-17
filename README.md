@@ -1,12 +1,12 @@
 ### Hey there 👋
 
 <a href="https://www.linkedin.com/in/borjag90/">
-  <img alt="Borja's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Borja's LinkedIn" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.github/BorjaG90/">
   <img alt="Borja's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="mailto:borjag90dev@gmail.com/">
+<a href="mailto:borjag90dev@gmail.com">
   <img alt="Borja's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a> 
 
