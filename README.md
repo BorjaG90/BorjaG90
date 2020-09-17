@@ -14,20 +14,23 @@
 
 Hi! I'm Borja Gete, a Software Engineer and Web Developer from Spain.
 
-Currently work as Frontend Developer.
-
 - 👷🏽‍♂️ I’m currently working developing web apps in 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>, 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>.
+![CSharp](https://img.shields.io/badge/-CSharp-black?style=flat&logo=c), 
+![DotNET](https://img.shields.io/badge/-.NET-black?style=flat&logo=.net).
 - 📚 I’m currently learning 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>.
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat&logo=vue.js)
 - 📊 I usually work with:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat&logo=vue.js)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 - 💬 Talking about me, I'm a huge fan of basketball and I'm into esports aswell.
 - 📫 How to reach me: <a href="mailto:borjag90dev@gmail.com" alt="Borja Gete mail">
   <img src="https://img.shields.io/badge/borjag90dev@gmail.com-DDDDDD?logo=gmail" title="Go To mail" alt="Borja Gete mail"/>
 </a>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=borjag90&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borjag90&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=borjag90.borjag90)
