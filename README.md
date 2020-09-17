@@ -10,7 +10,7 @@
 </a> 
 <br />
 
-Hi! I'm Borja Gete, a Software Engineer and Web Developer from Spain.
+**Hi! I'm Borja Gete, a Software Engineer and Web Developer from Spain.**
 
 - 👷🏽‍♂️ I’m currently working developing web apps in 
 ![CSharp](https://img.shields.io/badge/-CSharp-black?style=flat&logo=c), 
