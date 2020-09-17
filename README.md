@@ -1,5 +1,4 @@
 ### Hey there 👋
-
 <a href="https://www.linkedin.com/in/borjag90/" target="_blank">
   <img alt="Borja's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -9,7 +8,6 @@
 <a href="mailto:borjag90dev@gmail.com">
   <img alt="Borja's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a> 
-
 <br />
 
 Hi! I'm Borja Gete, a Software Engineer and Web Developer from Spain.
@@ -30,7 +28,7 @@ Hi! I'm Borja Gete, a Software Engineer and Web Developer from Spain.
   <img src="https://img.shields.io/badge/borjag90dev@gmail.com-DDDDDD?logo=gmail" title="Go To mail" alt="Borja Gete mail"/>
 </a>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=borjag90&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borjag90&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=borjag90&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borjag90&layout=compact&hide=jupyter%20notebook,scilab,java&theme=chartreuse-dark&langs_count=9)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=borjag90.borjag90)
