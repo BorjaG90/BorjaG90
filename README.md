@@ -10,6 +10,8 @@
   <img align="left" alt="Borja's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a> 
 
+<br />
+
 Hi! I'm Borja Gete, a Software Engineer and Web Developer from Spain.
 
 Currently work as Frontend Developer.
