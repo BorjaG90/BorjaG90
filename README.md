@@ -24,7 +24,7 @@
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat&logo=vue.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 - 💬 Talking about me, I'm a huge fan of basketball and I'm into esports aswell.
-- <span><a href="https://www.gitlab/BorjaG90">
+- <span><a href="https://gitlab.com/BorjaG90">
   <img alt="Borja's GitLab" src="https://img.shields.io/badge/GitLab-purple?logo=gitlab" />
 </a> This is my learning, sandbox and courses repo in case you want to keep an eye on it.</span>
 - 📫 How to reach me: <a href="mailto:borjag90dev@gmail.com" alt="Borja Gete mail">
