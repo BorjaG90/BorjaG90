@@ -21,7 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
-![Vue](https://img.shields.io/badge/-Vue-black?style=flat&logo=vue.js)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 - 💬 Talking about me, I'm a huge fan of basketball and I'm into esports aswell.
 - <span><a href="https://gitlab.com/BorjaG90">
