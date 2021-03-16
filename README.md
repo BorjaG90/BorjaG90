@@ -14,11 +14,9 @@
 </a> This is my learning, sandbox and courses repo in case you want to keep an eye on it.</span>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/borjag90/" target="_blank">
   <img alt="Borja's LinkedIn" height="22px" src="https://img.shields.io/badge/borjag90-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/BorjaG90">
+</a> <a href="https://github.com/BorjaG90">
   <img alt="Borja's GitHub" height="22px" src="https://img.shields.io/badge/BorjaG90-000000.svg?&style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:borjag90dev@gmail.com">
+</a> <a href="mailto:borjag90dev@gmail.com">
   <img alt="Borja's Mail" height="22px" src="https://img.shields.io/badge/borjag90dev@gmail-EC5664.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a> 
 <br />
