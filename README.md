@@ -2,9 +2,6 @@
 
 ### Hi! I'm Borja Gete, a Software Engineer and Web Developer from Spain.
 
-- 👷🏽‍♂️ I’m currently working developing web apps in 
-![CSharp](https://img.shields.io/badge/-CSharp-black?style=flat&logo=c), 
-![DotNET](https://img.shields.io/badge/-.NET-black?style=flat&logo=.net).
 - 📊 I usually work with:
 ![Javascript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=000)
 ![NodeJS](https://img.shields.io/badge/-Node-3C873A?style=flat-square&logo=Node.js&logoColor=ffffff)
